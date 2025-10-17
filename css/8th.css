@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+
+.bg-red {
+
+    padding: 50px;
+   
+    background-color: #FF0000;
+    position: fixed;
+
+}
+
+body {
+    height: 200px;
+    height: 100%;
+    height: 200vh;
+
+}
