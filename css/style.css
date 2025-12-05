@@ -1,0 +1,25 @@
+body {
+    background-color: pink;
+}
+
+
+nav {
+    background-color: green;
+}
+
+nav ul {
+    display: flex;
+    gap: .75rem;
+    list-style:none;
+}
+
+.container {
+    background-color: lightgreen;
+}
+
+#main {
+    background-color: rgb(192, 76, 13);
+}
+/*NAME {
+PROPERTY: VALUE;
+}*/
